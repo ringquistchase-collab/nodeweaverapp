@@ -1,9 +1,4 @@
-
-Bob Bone <bobbone960@gmail.com>
-10:55 AM (1 minute ago)
-to me, ringquistchase@gmail.com, tips
-
-"#!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 # â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 # Termux RF/Network installer â€” Metasploit + Nuclei + btlejack
 # Git-clone + ~/bin wrapper flow only (no APKs).
@@ -103,6 +98,6 @@ if ! grep -q 'HOME/bin' "$HOME/.bashrc" 2>/dev/null; then
 fi
 
 termux-toast "Wrappers ready in ~/bin (PATH updated in .bashrc)" || true
-echo "[+] Done. Run: source ~/.bashrc""
+echo "[+] Done. Run: source ~/.bashrc"
 
  
